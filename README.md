@@ -33,7 +33,7 @@ Contributions are welcome! Fork the repository and submit a pull request.
 
 ## Authors
 
-- Your Name - [GitHub Profile](https://github.com/PRJooker)
+- PRJooker - (https://github.com/PRJooker)
 
 ## Acknowledgments
 
