@@ -38,4 +38,4 @@ Contributions are welcome! Fork the repository and submit a pull request.
 ## Acknowledgments
 
 - [Bootstrap](https://getbootstrap.com) - CSS framework used in this project.
-- [Font Awesome](https://fontawesome.com) - Icons used in the web application.
+
