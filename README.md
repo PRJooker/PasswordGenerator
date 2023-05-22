@@ -1,8 +1,8 @@
 # Password Generator
 
-![GitHub](https://img.shields.io/github/license/your-username/repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/repo-name)
-![GitHub top language](https://img.shields.io/github/languages/top/your-username/repo-name)
+![GitHub](https://img.shields.io/github/license/PRJooker/PasswordGenerator)
+![GitHub last commit](https://img.shields.io/github/last-commit/PRJooker/PasswordGenerator)
+![GitHub top language](https://img.shields.io/github/languages/top/PRJooker/PasswordGenerator)
 
 ## Description
 
@@ -12,7 +12,7 @@ Users can specify the desired length of the password and select checkboxes to in
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/repo-name.git`
+1. Clone the repository: `[https://github.com/PRJooker/PasswordGenerator.git]`
 2. Open the index.html file in your web browser.
 
 ## Usage
